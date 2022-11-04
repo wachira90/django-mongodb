@@ -1,0 +1,9 @@
+appmain/api/__pycache__
+appmain/appmain/__pycache__
+*.pyc
+*.db
+*~
+.*
+env/
+push.bat
+!.gitignore
