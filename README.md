@@ -1,6 +1,8 @@
 # django-mongodb
 django-mongodb
 
+python V3.7.4
+
 ## install command
 
 ```
